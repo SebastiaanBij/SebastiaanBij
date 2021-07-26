@@ -21,7 +21,7 @@ Currently I am working on a number of projects outside of my company work. These
 - CSS:
   - I have a limited knowledge of CSS.
 
-## 🔧 I have experience with 🔧
+## 🔧 What do I have experience with? 🔧
 - Docker:
   - I currently run two Docker servers with my dad and PyFriends is created to run in a Docker container.
 - VMWare Fusion:
