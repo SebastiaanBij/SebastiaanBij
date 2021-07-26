@@ -9,6 +9,7 @@ Currently I am working on a number of projects outside of my company work. These
   - *This project is closed-source.*
 - A not yet name project:
   - This is a project I will not yet reveal. I am working on this project with a number of my friends. These friends are [Nando Kools](https://github.com/BlaxadowFire) and Job Banens.
+  - *This project is closed-source.*
 <!--
 **SebastiaanBij/SebastiaanBij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
