@@ -1,6 +1,14 @@
 ### ✨ Welcome to my GitHub Profile ✨
 ## 📖 Summary 📖
-I am a yound and enthousiastic ICT student who wants to become a developer. Currently I am studying at Zuyd Hogeschool in Heerlen and I am in my second year. I also have my own company called Software Bee IT which offers a number of ICT related services.
+I am a young and enthousiastic ICT student who wants to become a developer. Currently I am studying at Zuyd Hogeschool in Heerlen and I am in my second year. I also have my own company called Software Bee IT which offers a number of ICT related services.
+
+## 📚 What am I currently working on? 📚
+Currently I am working on a number of projects outside of my company work. These are:
+- PyFriends:
+  - A Discord bot which will send a message to a certain server channel when a member goes live on Twitch. It will provide some extra information about the stream and give the URL.
+  - *This project is closed-source.*
+- A not yet name project:
+  - This is a project I will not yet reveal. I am working on this project with a number of my friends. These friends are [Nando Kools](https://github.com/BlaxadowFire) and Job Banens.
 <!--
 **SebastiaanBij/SebastiaanBij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
