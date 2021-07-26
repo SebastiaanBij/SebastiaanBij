@@ -3,8 +3,6 @@
 [![Facebook_Shield](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook)](https://www.facebook.com/sebastiaan.bij)
 [![Instagram_Shield](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/sebastiaan_bij/)
 ## 📖 Summary 📖
-My name is Sebastiaan Bij and I am from the Netherlands.
-
 I am a young and enthousiastic ICT student who wants to become a developer. Currently I am studying at Zuyd Hogeschool (College) in Heerlen and I am in my second year. I also have my own company called [Software Bee IT](https://software-bee-it.nl) which offers a number of ICT related services.
 
 ## 📚 What am I currently working on? 📚
@@ -50,4 +48,3 @@ Currently I am working on a number of projects outside of my company work. These
 - OOP (Object Oriented Programming):
   - I want to leanr how to effectively use objects in my projects.
   - PyFriends is an OOP project.
-
