@@ -1,5 +1,7 @@
 ### ✨ Welcome to my GitHub Profile ✨
 ## 📖 Summary 📖
+My name is Sebastiaan Bij and I am from the Netherlands.
+
 I am a young and enthousiastic ICT student who wants to become a developer. Currently I am studying at Zuyd Hogeschool (College) in Heerlen and I am in my second year. I also have my own company called [Software Bee IT](https://software-bee-it.nl) which offers a number of ICT related services.
 
 ## 📚 What am I currently working on? 📚
