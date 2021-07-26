@@ -1,5 +1,5 @@
 ### ✨ Welcome to my GitHub Profile ✨
-![LinkedIn_Shield](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
+![LinkedIn_Shield](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin){https://google.com}
 ## 📖 Summary 📖
 My name is Sebastiaan Bij and I am from the Netherlands.
 
