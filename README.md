@@ -1,5 +1,6 @@
-### ✨Welcome to my GitHub Profile✨
-
+### ✨ Welcome to my GitHub Profile ✨
+## 📖 Summary 📖
+I am a yound and enthousiastic ICT student who wants to become a developer. Currently I am studying at Zuyd Hogeschool in Heerlen and I am in my second year. I also have my own company called Software Bee IT which offers a number of ICT related services.
 <!--
 **SebastiaanBij/SebastiaanBij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
