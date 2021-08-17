@@ -46,5 +46,5 @@ Currently I am working on a number of projects outside of my company work. These
 
 ## 🔣 What am I currently learning? 🔣
 - OOP (Object Oriented Programming):
-  - I want to leanr how to effectively use objects in my projects.
+  - I want to learn how to effectively use objects in my projects.
   - PyFriends is an OOP project.
