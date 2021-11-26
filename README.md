@@ -1,50 +1,35 @@
-### ✨ Welcome to my GitHub Profile ✨
-[![LinkedIn_Shield](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastiaan-bij/)
-[![Facebook_Shield](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook)](https://www.facebook.com/sebastiaan.bij)
-[![Instagram_Shield](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/sebastiaan_bij/)
-## 📖 Summary 📖
-I am a young and enthousiastic ICT student who wants to become a developer. Currently I am studying at Zuyd Hogeschool (College) in Heerlen and I am in my second year. I also have my own company called [Software Bee IT](https://software-bee-it.nl) which offers a number of ICT related services.
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sebastiaan Bij!</h1>
+<h3 align="center">A driven ICT-student and enthousiast back-end developer.</h3>
 
-## 📚 What am I currently working on? 📚
-Currently I am working on a number of projects outside of my company work. These are:
-- PyFriends:
-  - A Discord bot which will send a message to a certain server channel when a member goes live on Twitch. It will provide some extra information about the stream and give the URL.
-  - *This project is closed-source.*
-- A not yet named project:
-  - This is a project I will not yet reveal. I am working on this project with a number of my friends. These friends are [Nando Kools](https://github.com/BlaxadowFire) and Job Banens.
-  - *This project is closed-source.*
+---
 
-## 💻 What programming languages do I know? 💻
-- Python:
-  - I have around four years of experience with Python.
-- C#:
-  - I am currently learning C#, but I do have a bit of experience with the language.
-- HTML:
-  - I have user HTML on-and-off, but I have a decent knowledge of the language.
-- CSS:
-  - I have a limited knowledge of CSS.
+<h3 align="left">Summary:</h3>
 
-## 🔧 What do I have experience with? 🔧
-- Docker:
-  - I currently run two Docker servers with my dad and PyFriends is created to run in a Docker container.
-- VMWare Fusion:
-  - I used to tinker around with VMWare Fusion.
-- Virtual Box:
-  - I tinker around with Virtual Box and I had to use it for college.
-- GIT:
-  - All my important and new projects are version controlled with GIT.
-- MacOS:
-  - I am a massive Apple fan and I love their products. I own a MacBook Pro 2015.
-- Windows:
-  - I own a gaming PC which runs Windows and my school laptop runs Windows.
-- Linux:
-  - Our two servers run on Linux, to be exact CentOS.
-- IOS:
-  - As stated before, I am a massive Apple fan and thus I also own an iPhone.
-- Android:
-  - I am familiar with OS.
+- 🏢 I'm the owner of [Software Bee IT](https://software-bee-it.nl/)
 
-## 🔣 What am I currently learning? 🔣
-- OOP (Object Oriented Programming):
-  - I want to learn how to effectively use objects in my projects.
-  - PyFriends is an OOP project.
+- 🔭 I’m currently working on [log.py](https://github.com/SebastiaanBij/log.py) <i>(open-source)</i> and PyFriends <i>(closed-source)</i>
+
+- 🌱 I’m currently learning **Machine Learning and Algorithms**
+
+- 📝 I regularly write articles with my father on [https://bee-network.nl/blog/](https://bee-network.nl/blog/)
+
+- 💬 Ask me about **Python**
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+---
+
+<h3 align="left">Connect with me on:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sebastiaan-bij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastiaan-bij" height="30" width="40" /></a>
+<a href="https://fb.com/sebastiaan.bij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebastiaan.bij" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">GitHub Statistics:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sebastiaanbij&show_icons=true&locale=en&theme=tokyonight" alt="sebastiaanbij" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiaanbij&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sebastiaanbij" /></p>
